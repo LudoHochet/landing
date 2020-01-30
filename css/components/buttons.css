@@ -1,0 +1,40 @@
+.btn-medium {
+  border: solid 1px;
+  padding: 10px 29px;
+  opacity: 0.7;
+  color: rgb(150,150,150);
+  font-weight: lighter;
+  border-radius: 19px;
+}
+
+.btn-medium:hover {
+  opacity: 0.9;
+}
+
+.btn-treehouse {
+  background-color: #3AC162;
+  color: white;
+  opacity: 0.7;
+  padding: 10px 20px;
+  font-weight: bolder;
+  border-radius: 4px;
+}
+
+
+.btn-treehouse:hover {
+  opacity: 1;
+}
+
+.btn-blue {
+  background-color: #8ED0F8;
+  color: white;
+  padding: 10px 55px;
+  border-radius: 50px;
+}
+
+.btn-blue:hover {
+  background-color: white;
+  color: #8ED0F8;
+  border: 1px solid #8ED0F8;
+}
+
